@@ -1,0 +1,2 @@
+Some File2 content
+Another line
